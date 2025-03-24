@@ -33,7 +33,7 @@ function App() {
                 <Row>
                   
                   <Col>
-                    <Button variant="warning" onClick={() => setModalCarrito(true)}>Añadir al carrito</Button>
+                    <Button variant="warning" onClick={() => setModalCarrito(true)}>Agregar al carrito</Button>
                   </Col>
 
                   <Col>
@@ -57,7 +57,7 @@ function App() {
                 <Row>
                   
                   <Col>
-                    <Button variant="warning" onClick={() => setModalCarrito(true)}>Añadir al carrito</Button>
+                    <Button variant="warning" onClick={() => setModalCarrito(true)}>Agregar al carrito</Button>
                   </Col>
 
                   <Col>
@@ -82,7 +82,7 @@ function App() {
                 <Row>
                   
                   <Col>
-                    <Button variant="warning" onClick={() => setModalCarrito(true)}>Añadir al carrito</Button>
+                    <Button variant="warning" onClick={() => setModalCarrito(true)}>Agregar al carrito</Button>
                   </Col>
 
                   <Col>
