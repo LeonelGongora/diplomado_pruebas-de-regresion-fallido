@@ -117,7 +117,7 @@ function App() {
         <Modal.Body className="bg-danger text-white" style={{ border: 'none' }}>
 
           <div className='container-fluid'>
-            <div className='fw-bold' style={{ fontSize: '24px' }}>No se pudó agregar su producto al carrito.</div>
+            <div className='fw-bold' style={{ fontSize: '24px' }}>No se pudó agregar el producto al carrito.</div>
           </div>
         </Modal.Body>
         <Modal.Footer className="bg-danger text-white" style={{ border: 'none' }}>
